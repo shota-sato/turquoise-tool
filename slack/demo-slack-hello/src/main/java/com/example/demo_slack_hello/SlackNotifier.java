@@ -7,7 +7,7 @@ import java.net.URL;
 public class SlackNotifier {
 
     //#Generall用 webhookURL
-    private static final String WEBHOOK_URL = "https://hooks.slack.com/services/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 "; // ← ここを実際のURLに変更
+    private static final String WEBHOOK_URL = "https://hooks.slack.com/services/xxxxxx/yyyyy/zzzzz "; // ← ここを実際のURLに変更
 
 
     public static void send(String message) {
